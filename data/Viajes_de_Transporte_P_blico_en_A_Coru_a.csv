@@ -1,0 +1,201 @@
+id_viaje,linea,parada_subida,parada_bajada,hora_subida,hora_bajada,duracion_min,transbordo
+1,Línea 11,Cuatro Caminos,Elviña,2025-07-01 13:16,2025-07-01 13:24,8,No
+2,Línea 7,Matogrande,Estación de Autobuses,2025-07-01 14:17,2025-07-01 14:22,5,No
+3,Línea 1,Plaza de Lugo,Hospital Abente y Lago,2025-07-01 06:46,2025-07-01 06:51,5,Sí
+4,Línea 1,Cuatro Caminos,Matogrande,2025-07-01 16:39,2025-07-01 16:53,14,No
+5,Línea 3,Plaza de Lugo,Matogrande,2025-07-01 14:51,2025-07-01 14:56,5,Sí
+6,Línea 3,Palacio de la Ópera,Cuatro Caminos,2025-07-01 11:40,2025-07-01 11:48,8,No
+7,Línea 11,Plaza de Lugo,Estación de Autobuses,2025-07-01 15:57,2025-07-01 16:06,9,No
+8,Línea 7,Hospital Abente y Lago,María Pita,2025-07-01 15:20,2025-07-01 15:29,9,Sí
+9,Línea 3,Elviña,Palacio de la Ópera,2025-07-01 06:26,2025-07-01 06:49,23,Sí
+10,Línea 21,Estación de Autobuses,María Pita,2025-07-01 09:59,2025-07-01 10:07,8,Sí
+11,Línea 11,Cuatro Caminos,Los Rosales,2025-07-01 06:56,2025-07-01 07:18,22,Sí
+12,Línea 11,Palacio de la Ópera,Hospital Abente y Lago,2025-07-01 12:00,2025-07-01 12:07,7,Sí
+13,Línea 21,Plaza de Lugo,Cuatro Caminos,2025-07-01 14:04,2025-07-01 14:24,20,Sí
+14,Línea 3,María Pita,Plaza de Lugo,2025-07-01 12:53,2025-07-01 13:09,16,No
+15,Línea 1,Estación de Autobuses,Cuatro Caminos,2025-07-01 14:47,2025-07-01 15:08,21,Sí
+16,Línea 21,Riazor,Matogrande,2025-07-01 14:57,2025-07-01 15:06,9,No
+17,Línea 3,Elviña,Estación de Autobuses,2025-07-01 15:21,2025-07-01 15:42,21,No
+18,Línea 3,Palacio de la Ópera,Los Rosales,2025-07-01 08:11,2025-07-01 08:34,23,No
+19,Línea 7,María Pita,Hospital Abente y Lago,2025-07-01 14:06,2025-07-01 14:23,17,No
+20,Línea 5,Elviña,Palacio de la Ópera,2025-07-01 17:18,2025-07-01 17:43,25,Sí
+21,Línea 7,Elviña,Riazor,2025-07-01 06:48,2025-07-01 07:03,15,Sí
+22,Línea 7,Hospital Abente y Lago,María Pita,2025-07-01 11:19,2025-07-01 11:29,10,Sí
+23,Línea 7,Cuatro Caminos,Matogrande,2025-07-01 16:44,2025-07-01 16:52,8,Sí
+24,Línea 11,Elviña,Hospital Abente y Lago,2025-07-01 07:01,2025-07-01 07:18,17,No
+25,Línea 21,Cuatro Caminos,Matogrande,2025-07-01 16:00,2025-07-01 16:13,13,No
+26,Línea 7,Hospital Abente y Lago,Los Rosales,2025-07-01 14:51,2025-07-01 15:09,18,Sí
+27,Línea 11,Matogrande,Plaza de Lugo,2025-07-01 15:55,2025-07-01 16:13,18,Sí
+28,Línea 5,Plaza de Lugo,Riazor,2025-07-01 17:06,2025-07-01 17:18,12,No
+29,Línea 5,Elviña,Cuatro Caminos,2025-07-01 14:02,2025-07-01 14:08,6,Sí
+30,Línea 1,Matogrande,Riazor,2025-07-01 10:05,2025-07-01 10:23,18,No
+31,Línea 3,Estación de Autobuses,Plaza de Lugo,2025-07-01 10:59,2025-07-01 11:15,16,No
+32,Línea 3,Hospital Abente y Lago,Riazor,2025-07-01 17:04,2025-07-01 17:27,23,Sí
+33,Línea 5,Plaza de Lugo,Los Rosales,2025-07-01 16:28,2025-07-01 16:37,9,No
+34,Línea 11,Hospital Abente y Lago,Cuatro Caminos,2025-07-01 10:53,2025-07-01 11:17,24,Sí
+35,Línea 7,Riazor,Matogrande,2025-07-01 07:41,2025-07-01 07:54,13,Sí
+36,Línea 3,Plaza de Lugo,Hospital Abente y Lago,2025-07-01 13:58,2025-07-01 14:05,7,Sí
+37,Línea 21,Riazor,Elviña,2025-07-01 16:57,2025-07-01 17:04,7,No
+38,Línea 21,Los Rosales,Palacio de la Ópera,2025-07-01 11:38,2025-07-01 11:46,8,No
+39,Línea 3,Hospital Abente y Lago,Riazor,2025-07-01 13:51,2025-07-01 14:13,22,No
+40,Línea 3,Palacio de la Ópera,Matogrande,2025-07-01 14:01,2025-07-01 14:16,15,Sí
+41,Línea 11,Los Rosales,Cuatro Caminos,2025-07-01 14:49,2025-07-01 15:07,18,Sí
+42,Línea 1,Los Rosales,Hospital Abente y Lago,2025-07-01 09:39,2025-07-01 09:52,13,Sí
+43,Línea 21,Riazor,Plaza de Lugo,2025-07-01 07:58,2025-07-01 08:19,21,No
+44,Línea 5,Riazor,Elviña,2025-07-01 06:34,2025-07-01 06:47,13,Sí
+45,Línea 3,Los Rosales,Elviña,2025-07-01 11:45,2025-07-01 11:58,13,Sí
+46,Línea 21,Cuatro Caminos,Riazor,2025-07-01 09:26,2025-07-01 09:33,7,Sí
+47,Línea 1,Palacio de la Ópera,Elviña,2025-07-01 07:30,2025-07-01 07:40,10,No
+48,Línea 1,Elviña,María Pita,2025-07-01 11:45,2025-07-01 11:55,10,No
+49,Línea 5,Palacio de la Ópera,Los Rosales,2025-07-01 10:44,2025-07-01 10:56,12,Sí
+50,Línea 3,Palacio de la Ópera,Los Rosales,2025-07-01 06:32,2025-07-01 06:51,19,Sí
+51,Línea 1,Hospital Abente y Lago,Plaza de Lugo,2025-07-01 17:54,2025-07-01 18:13,19,Sí
+52,Línea 7,Plaza de Lugo,Palacio de la Ópera,2025-07-01 07:41,2025-07-01 07:54,13,No
+53,Línea 21,Plaza de Lugo,María Pita,2025-07-01 09:07,2025-07-01 09:14,7,Sí
+54,Línea 1,Elviña,Palacio de la Ópera,2025-07-01 08:48,2025-07-01 08:59,11,Sí
+55,Línea 5,Hospital Abente y Lago,Palacio de la Ópera,2025-07-01 10:31,2025-07-01 10:47,16,No
+56,Línea 3,Cuatro Caminos,Palacio de la Ópera,2025-07-01 15:05,2025-07-01 15:19,14,No
+57,Línea 5,Palacio de la Ópera,Estación de Autobuses,2025-07-01 17:26,2025-07-01 17:50,24,Sí
+58,Línea 3,Elviña,Riazor,2025-07-01 14:49,2025-07-01 14:54,5,Sí
+59,Línea 11,Los Rosales,Palacio de la Ópera,2025-07-01 10:31,2025-07-01 10:45,14,Sí
+60,Línea 3,Matogrande,Riazor,2025-07-01 16:12,2025-07-01 16:19,7,Sí
+61,Línea 3,Plaza de Lugo,Estación de Autobuses,2025-07-01 17:25,2025-07-01 17:46,21,No
+62,Línea 1,Plaza de Lugo,Los Rosales,2025-07-01 13:26,2025-07-01 13:47,21,Sí
+63,Línea 5,Riazor,Palacio de la Ópera,2025-07-01 08:30,2025-07-01 08:51,21,No
+64,Línea 5,Cuatro Caminos,Hospital Abente y Lago,2025-07-01 14:40,2025-07-01 14:48,8,Sí
+65,Línea 11,Los Rosales,Cuatro Caminos,2025-07-01 11:10,2025-07-01 11:24,14,No
+66,Línea 5,Elviña,Cuatro Caminos,2025-07-01 08:17,2025-07-01 08:36,19,Sí
+67,Línea 7,Plaza de Lugo,Cuatro Caminos,2025-07-01 13:41,2025-07-01 13:53,12,No
+68,Línea 7,Hospital Abente y Lago,Plaza de Lugo,2025-07-01 07:02,2025-07-01 07:16,14,No
+69,Línea 1,Hospital Abente y Lago,Los Rosales,2025-07-01 11:50,2025-07-01 12:11,21,Sí
+70,Línea 1,Palacio de la Ópera,Cuatro Caminos,2025-07-01 12:45,2025-07-01 12:56,11,Sí
+71,Línea 5,Matogrande,María Pita,2025-07-01 12:45,2025-07-01 13:09,24,Sí
+72,Línea 7,Hospital Abente y Lago,Los Rosales,2025-07-01 08:53,2025-07-01 09:04,11,No
+73,Línea 11,Hospital Abente y Lago,Palacio de la Ópera,2025-07-01 09:00,2025-07-01 09:06,6,No
+74,Línea 11,Cuatro Caminos,Matogrande,2025-07-01 06:07,2025-07-01 06:28,21,No
+75,Línea 7,María Pita,Los Rosales,2025-07-01 06:17,2025-07-01 06:25,8,Sí
+76,Línea 3,Plaza de Lugo,Palacio de la Ópera,2025-07-01 13:15,2025-07-01 13:40,25,Sí
+77,Línea 5,Cuatro Caminos,Matogrande,2025-07-01 14:41,2025-07-01 14:47,6,Sí
+78,Línea 7,Matogrande,Cuatro Caminos,2025-07-01 14:27,2025-07-01 14:43,16,Sí
+79,Línea 1,Cuatro Caminos,Matogrande,2025-07-01 15:30,2025-07-01 15:36,6,Sí
+80,Línea 21,Hospital Abente y Lago,María Pita,2025-07-01 10:31,2025-07-01 10:54,23,Sí
+81,Línea 11,Riazor,Los Rosales,2025-07-01 15:13,2025-07-01 15:32,19,Sí
+82,Línea 11,Hospital Abente y Lago,Los Rosales,2025-07-01 11:32,2025-07-01 11:43,11,Sí
+83,Línea 3,Los Rosales,Estación de Autobuses,2025-07-01 14:19,2025-07-01 14:41,22,Sí
+84,Línea 5,Los Rosales,María Pita,2025-07-01 12:37,2025-07-01 12:46,9,Sí
+85,Línea 1,Matogrande,Riazor,2025-07-01 13:09,2025-07-01 13:22,13,No
+86,Línea 3,Cuatro Caminos,María Pita,2025-07-01 14:44,2025-07-01 15:09,25,Sí
+87,Línea 5,Hospital Abente y Lago,María Pita,2025-07-01 11:04,2025-07-01 11:11,7,Sí
+88,Línea 1,María Pita,Cuatro Caminos,2025-07-01 17:54,2025-07-01 18:16,22,No
+89,Línea 3,Elviña,María Pita,2025-07-01 14:20,2025-07-01 14:42,22,Sí
+90,Línea 1,Hospital Abente y Lago,Matogrande,2025-07-01 17:52,2025-07-01 17:58,6,Sí
+91,Línea 21,Estación de Autobuses,Matogrande,2025-07-01 16:35,2025-07-01 16:50,15,Sí
+92,Línea 3,Elviña,Cuatro Caminos,2025-07-01 14:32,2025-07-01 14:47,15,No
+93,Línea 5,Riazor,Palacio de la Ópera,2025-07-01 11:12,2025-07-01 11:31,19,Sí
+94,Línea 5,Elviña,Matogrande,2025-07-01 11:11,2025-07-01 11:36,25,No
+95,Línea 11,Riazor,Cuatro Caminos,2025-07-01 16:19,2025-07-01 16:33,14,Sí
+96,Línea 11,Los Rosales,Matogrande,2025-07-01 14:38,2025-07-01 14:49,11,Sí
+97,Línea 5,María Pita,Palacio de la Ópera,2025-07-01 16:07,2025-07-01 16:26,19,Sí
+98,Línea 1,Riazor,Plaza de Lugo,2025-07-01 08:17,2025-07-01 08:22,5,No
+99,Línea 11,Matogrande,Riazor,2025-07-01 15:48,2025-07-01 15:54,6,No
+100,Línea 11,Elviña,Los Rosales,2025-07-01 06:08,2025-07-01 06:28,20,Sí
+101,Línea 3,Matogrande,Elviña,2025-07-01 09:52,2025-07-01 10:11,19,Sí
+102,Línea 21,Matogrande,Cuatro Caminos,2025-07-01 07:02,2025-07-01 07:20,18,Sí
+103,Línea 1,Palacio de la Ópera,Elviña,2025-07-01 10:34,2025-07-01 10:49,15,Sí
+104,Línea 5,Palacio de la Ópera,Elviña,2025-07-01 07:17,2025-07-01 07:22,5,No
+105,Línea 3,Hospital Abente y Lago,Matogrande,2025-07-01 06:54,2025-07-01 07:14,20,No
+106,Línea 1,Matogrande,Los Rosales,2025-07-01 08:48,2025-07-01 08:57,9,Sí
+107,Línea 5,Palacio de la Ópera,Matogrande,2025-07-01 09:33,2025-07-01 09:49,16,No
+108,Línea 21,María Pita,Riazor,2025-07-01 06:06,2025-07-01 06:26,20,Sí
+109,Línea 11,Elviña,Los Rosales,2025-07-01 12:00,2025-07-01 12:07,7,No
+110,Línea 11,Riazor,Elviña,2025-07-01 06:46,2025-07-01 07:02,16,Sí
+111,Línea 7,Elviña,Cuatro Caminos,2025-07-01 06:05,2025-07-01 06:14,9,No
+112,Línea 1,Hospital Abente y Lago,María Pita,2025-07-01 08:18,2025-07-01 08:39,21,No
+113,Línea 1,Los Rosales,Palacio de la Ópera,2025-07-01 13:49,2025-07-01 14:07,18,Sí
+114,Línea 5,Los Rosales,Riazor,2025-07-01 14:25,2025-07-01 14:42,17,Sí
+115,Línea 1,Hospital Abente y Lago,Palacio de la Ópera,2025-07-01 16:52,2025-07-01 17:15,23,Sí
+116,Línea 5,Palacio de la Ópera,Riazor,2025-07-01 12:00,2025-07-01 12:23,23,No
+117,Línea 3,Cuatro Caminos,Riazor,2025-07-01 11:15,2025-07-01 11:20,5,No
+118,Línea 5,Riazor,Matogrande,2025-07-01 09:58,2025-07-01 10:07,9,No
+119,Línea 3,María Pita,Palacio de la Ópera,2025-07-01 15:59,2025-07-01 16:07,8,Sí
+120,Línea 21,Elviña,Hospital Abente y Lago,2025-07-01 10:16,2025-07-01 10:23,7,Sí
+121,Línea 5,Palacio de la Ópera,María Pita,2025-07-01 06:33,2025-07-01 06:54,21,No
+122,Línea 3,Estación de Autobuses,María Pita,2025-07-01 12:58,2025-07-01 13:09,11,No
+123,Línea 7,Cuatro Caminos,Elviña,2025-07-01 16:20,2025-07-01 16:40,20,Sí
+124,Línea 21,Estación de Autobuses,Cuatro Caminos,2025-07-01 08:48,2025-07-01 09:10,22,No
+125,Línea 7,Los Rosales,Riazor,2025-07-01 17:15,2025-07-01 17:22,7,No
+126,Línea 11,Palacio de la Ópera,María Pita,2025-07-01 11:24,2025-07-01 11:41,17,No
+127,Línea 5,Plaza de Lugo,Elviña,2025-07-01 08:42,2025-07-01 08:56,14,Sí
+128,Línea 7,Matogrande,María Pita,2025-07-01 11:30,2025-07-01 11:51,21,Sí
+129,Línea 21,Hospital Abente y Lago,María Pita,2025-07-01 13:58,2025-07-01 14:10,12,Sí
+130,Línea 11,Matogrande,María Pita,2025-07-01 15:08,2025-07-01 15:26,18,Sí
+131,Línea 7,Elviña,Cuatro Caminos,2025-07-01 10:33,2025-07-01 10:58,25,No
+132,Línea 1,Riazor,Elviña,2025-07-01 09:57,2025-07-01 10:07,10,Sí
+133,Línea 3,Cuatro Caminos,Matogrande,2025-07-01 08:57,2025-07-01 09:12,15,No
+134,Línea 21,Palacio de la Ópera,Estación de Autobuses,2025-07-01 07:40,2025-07-01 07:49,9,No
+135,Línea 5,Estación de Autobuses,Matogrande,2025-07-01 12:50,2025-07-01 12:57,7,Sí
+136,Línea 5,Plaza de Lugo,Hospital Abente y Lago,2025-07-01 09:24,2025-07-01 09:34,10,Sí
+137,Línea 3,Los Rosales,María Pita,2025-07-01 09:49,2025-07-01 10:00,11,No
+138,Línea 1,Elviña,Cuatro Caminos,2025-07-01 16:14,2025-07-01 16:28,14,No
+139,Línea 11,Los Rosales,Riazor,2025-07-01 13:37,2025-07-01 13:48,11,Sí
+140,Línea 1,María Pita,Riazor,2025-07-01 06:37,2025-07-01 06:46,9,Sí
+141,Línea 5,Cuatro Caminos,Los Rosales,2025-07-01 08:28,2025-07-01 08:35,7,Sí
+142,Línea 1,Hospital Abente y Lago,Cuatro Caminos,2025-07-01 13:01,2025-07-01 13:21,20,No
+143,Línea 3,Plaza de Lugo,Elviña,2025-07-01 09:28,2025-07-01 09:43,15,Sí
+144,Línea 11,Riazor,Cuatro Caminos,2025-07-01 10:29,2025-07-01 10:54,25,No
+145,Línea 1,Plaza de Lugo,Cuatro Caminos,2025-07-01 06:00,2025-07-01 06:15,15,No
+146,Línea 21,Cuatro Caminos,Matogrande,2025-07-01 06:48,2025-07-01 06:53,5,No
+147,Línea 5,Hospital Abente y Lago,María Pita,2025-07-01 11:11,2025-07-01 11:27,16,Sí
+148,Línea 21,Plaza de Lugo,Riazor,2025-07-01 08:15,2025-07-01 08:29,14,No
+149,Línea 7,Plaza de Lugo,Riazor,2025-07-01 15:14,2025-07-01 15:36,22,Sí
+150,Línea 7,Riazor,Hospital Abente y Lago,2025-07-01 10:50,2025-07-01 11:04,14,No
+151,Línea 21,Los Rosales,Matogrande,2025-07-01 17:00,2025-07-01 17:10,10,Sí
+152,Línea 1,Riazor,Palacio de la Ópera,2025-07-01 15:15,2025-07-01 15:32,17,Sí
+153,Línea 1,Riazor,Cuatro Caminos,2025-07-01 09:28,2025-07-01 09:38,10,Sí
+154,Línea 7,Palacio de la Ópera,Elviña,2025-07-01 08:22,2025-07-01 08:27,5,No
+155,Línea 1,Estación de Autobuses,Cuatro Caminos,2025-07-01 10:53,2025-07-01 11:04,11,No
+156,Línea 11,Plaza de Lugo,Hospital Abente y Lago,2025-07-01 17:17,2025-07-01 17:41,24,No
+157,Línea 21,Matogrande,Riazor,2025-07-01 10:35,2025-07-01 10:45,10,No
+158,Línea 5,Plaza de Lugo,Elviña,2025-07-01 14:43,2025-07-01 14:56,13,No
+159,Línea 3,Riazor,Los Rosales,2025-07-01 11:05,2025-07-01 11:14,9,No
+160,Línea 5,Matogrande,Plaza de Lugo,2025-07-01 15:38,2025-07-01 15:49,11,No
+161,Línea 7,Palacio de la Ópera,María Pita,2025-07-01 13:34,2025-07-01 13:58,24,No
+162,Línea 21,María Pita,Los Rosales,2025-07-01 15:52,2025-07-01 16:12,20,Sí
+163,Línea 21,Elviña,María Pita,2025-07-01 07:36,2025-07-01 07:51,15,Sí
+164,Línea 5,Elviña,Cuatro Caminos,2025-07-01 13:51,2025-07-01 14:05,14,No
+165,Línea 7,Elviña,Matogrande,2025-07-01 16:11,2025-07-01 16:35,24,Sí
+166,Línea 3,Cuatro Caminos,Hospital Abente y Lago,2025-07-01 10:41,2025-07-01 10:54,13,No
+167,Línea 7,Plaza de Lugo,Matogrande,2025-07-01 14:47,2025-07-01 15:09,22,No
+168,Línea 5,Cuatro Caminos,Elviña,2025-07-01 13:09,2025-07-01 13:27,18,Sí
+169,Línea 1,María Pita,Estación de Autobuses,2025-07-01 09:22,2025-07-01 09:36,14,No
+170,Línea 7,Palacio de la Ópera,Cuatro Caminos,2025-07-01 10:31,2025-07-01 10:42,11,No
+171,Línea 3,Los Rosales,Estación de Autobuses,2025-07-01 10:55,2025-07-01 11:05,10,Sí
+172,Línea 7,Cuatro Caminos,Los Rosales,2025-07-01 17:17,2025-07-01 17:24,7,Sí
+173,Línea 21,Elviña,Plaza de Lugo,2025-07-01 17:05,2025-07-01 17:16,11,Sí
+174,Línea 7,María Pita,Estación de Autobuses,2025-07-01 11:54,2025-07-01 12:08,14,No
+175,Línea 21,Matogrande,Riazor,2025-07-01 16:25,2025-07-01 16:31,6,Sí
+176,Línea 3,Riazor,Plaza de Lugo,2025-07-01 13:26,2025-07-01 13:45,19,No
+177,Línea 11,Palacio de la Ópera,Hospital Abente y Lago,2025-07-01 09:54,2025-07-01 10:05,11,Sí
+178,Línea 3,Los Rosales,Elviña,2025-07-01 12:26,2025-07-01 12:48,22,No
+179,Línea 5,María Pita,Cuatro Caminos,2025-07-01 09:46,2025-07-01 10:11,25,No
+180,Línea 1,Cuatro Caminos,Elviña,2025-07-01 08:18,2025-07-01 08:30,12,No
+181,Línea 1,Elviña,María Pita,2025-07-01 15:25,2025-07-01 15:47,22,Sí
+182,Línea 11,Los Rosales,Matogrande,2025-07-01 07:56,2025-07-01 08:16,20,No
+183,Línea 3,Riazor,Palacio de la Ópera,2025-07-01 15:27,2025-07-01 15:48,21,Sí
+184,Línea 1,Estación de Autobuses,Cuatro Caminos,2025-07-01 13:40,2025-07-01 13:56,16,Sí
+185,Línea 11,Plaza de Lugo,Matogrande,2025-07-01 11:46,2025-07-01 12:04,18,Sí
+186,Línea 3,Los Rosales,Cuatro Caminos,2025-07-01 12:24,2025-07-01 12:48,24,Sí
+187,Línea 21,Palacio de la Ópera,Hospital Abente y Lago,2025-07-01 08:11,2025-07-01 08:29,18,No
+188,Línea 21,Palacio de la Ópera,Cuatro Caminos,2025-07-01 08:12,2025-07-01 08:17,5,Sí
+189,Línea 3,Estación de Autobuses,Los Rosales,2025-07-01 10:45,2025-07-01 10:59,14,No
+190,Línea 5,Los Rosales,Riazor,2025-07-01 11:58,2025-07-01 12:12,14,No
+191,Línea 11,Hospital Abente y Lago,Plaza de Lugo,2025-07-01 13:10,2025-07-01 13:34,24,Sí
+192,Línea 1,Riazor,Plaza de Lugo,2025-07-01 14:10,2025-07-01 14:21,11,No
+193,Línea 1,Estación de Autobuses,María Pita,2025-07-01 17:55,2025-07-01 18:07,12,Sí
+194,Línea 7,Estación de Autobuses,Matogrande,2025-07-01 15:55,2025-07-01 16:08,13,No
+195,Línea 1,Palacio de la Ópera,Matogrande,2025-07-01 06:29,2025-07-01 06:34,5,No
+196,Línea 3,Plaza de Lugo,Cuatro Caminos,2025-07-01 17:24,2025-07-01 17:32,8,No
+197,Línea 5,Hospital Abente y Lago,Elviña,2025-07-01 12:41,2025-07-01 12:53,12,No
+198,Línea 7,Palacio de la Ópera,Estación de Autobuses,2025-07-01 08:14,2025-07-01 08:22,8,No
+199,Línea 21,Matogrande,Palacio de la Ópera,2025-07-01 12:44,2025-07-01 13:08,24,No
+200,Línea 7,Cuatro Caminos,Riazor,2025-07-01 09:57,2025-07-01 10:10,13,Sí
